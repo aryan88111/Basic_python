@@ -1,0 +1,24 @@
+.env
+./node_modules
+.txt# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# OS junk
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+
+# Optional: ignore all .txt files (if you want that)
+*.txt
